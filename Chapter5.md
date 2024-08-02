@@ -28,43 +28,42 @@ Si estos marcos no son adecuados para usted, tenga en cuenta que este libro se b
 
 **Cuadro 1: FCI de gobernanza de TI (excluidos los marcos de referencia)**
 
-|   |   |   |   |   |   |
-|---|---|---|---|---|---|
- 
-||Requisitos de cumplimiento|   |   |   |Asignación a referencia Marcos|
-|RGPD (en inglés)|PCI DSS|Normativa NIS|DSP|
-|Toolkit|
-|Gestione y proteja|   |   |   |   |
-|Gestión de activos|ü|ü|ü|ü|
-|Políticas de seguridad de la información|ü|ü|ü|ü|
-|Seguridad física y ambiental|ü|ü|ü|ü|
-|Control de identidad y acceso|ü|ü|ü|ü|
-|Malware|ü|ü|ü|ü|
-|protección|
-|Configuración y gestión de parches|ü|ü|ü|ü|
-|Encriptación|ü|ü|ü||
-|Seguridad del sistema|ü|ü|ü|ü|
-|Redes y comunicaciones|ü|ü|ü|ü|
-|seguridad|
-|Competencia en materia de seguridad y|ü|ü|ü|ü|
-|adiestramiento|
-|Capacitación de concientización del personal|ü|ü|ü|ü|
-|Programa integral de gestión de riesgos|ü|ü|ü||
-|Gestión de riesgos de la cadena de suministro|ü|ü|ü||
-|Identificar y detectar|   |   |   |   |
-|Inteligencia de amenazas y vulnerabilidades|ü|ü|ü|ü|
-|Supervisión de la seguridad|ü|ü|ü|ü|
-|Responder y recuperar|   |   |   |   |
-|Gestión de respuesta a incidentes|ü|ü|ü|ü|
-|Gestión de la continuidad de las TIC||ü|ü|ü|
-|Gestión de la continuidad del negocio||ü|ü||
-|Gobernar y asegurar|   ||||
-|Información formal|ü|ü|ü|ü|
-|seguridad|
-|Programa de gestión|
-|Proceso de mejora continua|||||
-|Compromiso e implicación de la junta directiva||ü|ü|ü|
-|Estructura y procesos de gobernanza|||ü|ü|
-|Auditoría interna||ü|ü||
-|Certificación/validación externa||ü|ü|ü|
+### Gestiona y proteja
 
+|                                               | RGPD | PCI DSS | Normativa NIS | DSP toolkit |
+| --------------------------------------------- | ---- | ------- | ------------- | ----------- |
+| Gestión de activos                            | ü    | ü       | ü             | ü           |
+| Políticas de seguridad de la información      | ü    | ü       | ü             | ü           |
+| Seguridad física y ambiental                  | ü    | ü       | ü             | ü           |
+| Control de identidad y acceso                 | ü    | ü       | ü             | ü           |
+| Malware                                       | ü    | ü       | ü             | ü           |
+| protección                                    |      |         |               |             |
+| Configuración y gestión de parches            | ü    | ü       | ü             | ü           |
+| Encriptación                                  | ü    | ü       | ü             |             |
+| Seguridad del sistema                         | ü    | ü       | ü             | ü           |
+| Redes y comunicaciones                        | ü    | ü       | ü             | ü           |
+| seguridad                                     |      |         |               |             |
+| Competencia en materia de seguridad y         | ü    | ü       | ü             | ü           |
+| adiestramiento                                |      |         |               |             |
+| Capacitación de concientización del personal  | ü    | ü       | ü             | ü           |
+| Programa integral de gestión de riesgos       | ü    | ü       | ü             |             |
+| Gestión de riesgos de la cadena de suministro | ü    | ü       | ü             |             |
+
+### Responder y recuperar
+
+|                                       | RGPD | PCI DSS | Normativa NIS | DSP toolkit |
+| ------------------------------------- | ---- | ------- | ------------- | ----------- |
+| Gestión de respuesta a incidentes     | ü    | ü       | ü             | ü           |
+| Gestión de la continuidad de las TIC  |      | ü       | ü             | ü           |
+| Gestión de la continuidad del negocio |      | ü       | ü             |             |
+
+### Gobernar y asegurar
+
+|                                                    | RGPD | PCI DSS | Normativa NIS | DSP toolkit |
+| -------------------------------------------------- | ---- | ------- | ------------- | ----------- |
+| Información formal, seguridad, Programa de gestión | ü    | ü       | ü             | ü           |
+| Proceso de mejora continua                         |      |         |               |             |
+| Compromiso e implicación de la junta directiva     |      | ü       | ü             | ü           |
+| Estructura y procesos de gobernanza                |      |         | ü             | ü           |
+| Auditoría interna                                  |      | ü       | ü             |             |
+| Certificación/validación externa                   |      | ü       | ü             | ü           |
